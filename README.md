@@ -1,6 +1,6 @@
 <p>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIAOtqQ5is5vwbcEn0ZahZfMxz1QIeAYtFfnLdkCXu1sqAGbnX" width="300">
- </p>
+</p>
 
 ## Desafio para candidatos à vaga de Desenvolvedor Front End (Jr/Pleno/Sênior).
 Olá caro desenvolvedor, nosso principal objetivo é conseguir ver a lógica implementada independente
